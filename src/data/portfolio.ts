@@ -11,7 +11,7 @@ export const siteConfig = {
 export const heroTags = [
   "SEO Strategy",
   "Product-Led Growth",
-  "AI / AEO / GEO
+  "AI / AEO / GEO",
   "Content Infrastructure",
   "CRO & Experimentation",
   "ORM & Community Growth",
