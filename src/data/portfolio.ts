@@ -42,7 +42,7 @@ export const aboutFacts = [
 
 export const brands: { name: string; logo: string; primary?: boolean; dark?: boolean }[] = [
   { name: "Truemeds", logo: "https://assets.truemeds.in/Images/website-assets/images/logo/truemedslogonav.svg", primary: true },
-  { name: "Amazon Business", loo: "/portfolio-v2/amazon_business.png" },
+  { name: "Amazon Business", logo: "/portfolio-v2/amazon_business.png" },
   { name: "P&G", logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Procter_%26_Gamble_logo.svg/250px-Procter_%26_Gamble_logo.svg.png" },
   { name: "Microsoft SMB", logo: "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" },
   { name: "UNICEF UAE", logo: "https://upload.wikimedia.org/wikipedia/commons/5/57/UNICEF_Logo.png" },
