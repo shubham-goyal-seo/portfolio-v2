@@ -11,7 +11,7 @@ export const siteConfig = {
 export const heroTags = [
   "SEO Strategy",
   "Product-Led Growth",
-  "AI / AEO / GEO",
+  "AI / AEO / GEO
   "Content Infrastructure",
   "CRO & Experimentation",
   "ORM & Community Growth",
@@ -42,7 +42,7 @@ export const aboutFacts = [
 
 export const brands: { name: string; logo: string; primary?: boolean; dark?: boolean }[] = [
   { name: "Truemeds", logo: "https://assets.truemeds.in/Images/website-assets/images/logo/truemedslogonav.svg", primary: true },
-  { name: "Amazon Business", logo: "/portfolio/amazon_business.png" },
+  { name: "Amazon Business", loo: "/portfolio-v2/amazon_business.png" },
   { name: "P&G", logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Procter_%26_Gamble_logo.svg/250px-Procter_%26_Gamble_logo.svg.png" },
   { name: "Microsoft SMB", logo: "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" },
   { name: "UNICEF UAE", logo: "https://upload.wikimedia.org/wikipedia/commons/5/57/UNICEF_Logo.png" },
@@ -50,13 +50,13 @@ export const brands: { name: string; logo: string; primary?: boolean; dark?: boo
   { name: "Cult Sport", logo: "https://d3q27bh1u24u2o.cloudfront.net/news/Cult_Sport.png" },
   { name: "Freecharge", logo: "https://upload.wikimedia.org/wikipedia/en/1/1c/Freecharge_logo_%28lightning%29.png" },
   { name: "HBR Ascend", logo: "https://upload.wikimedia.org/wikipedia/commons/5/53/HBRAscend_Logo.png" },
-  { name: "Label Ritu Kumar", logo: "/portfolio/ritu.png" },
-  { name: "SUGAR Cosmetics", logo: "/portfolio/sugar.png" },
+  { name: "Label Ritu Kumar", logo: "/portfolio-v2/ritu.png" },
+  { name: "SUGAR Cosmetics", logo: "/portfolio-v2/sugar.png" },
   { name: "Emami Zanducare", logo: "https://upload.wikimedia.org/wikipedia/en/e/ea/Zandu_Realty.png" },
   { name: "Foxstar Studios", logo: "https://www.behindwoods.com/tamil-movies/slideshow/best-logo-blocks-of-production-companies/images/fox-star-studios.jpg" },
   { name: "Charlie Banana", logo: "https://www.charliebanana.com/cdn/shop/files/CB_Logo_legacy_a4c3c7ec-032b-4de5-a2e6-3b764e4e54ae.png?crop=center&height=1200&v=1755333831&width=1200" },
-  { name: "PlantX", logo: "/portfolio/ebc66836-820d-4825-9ec4-e2bfa4832d73-1795099172710_image.png" },
-  { name: "Prepaze", logo: "/portfolio/prepaze_logo_kkhxn5.svg" },
+  { name: "PlantX", logo: "/portfolio-v2/ebc66836-820d-4825-9ec4-e2bfa4832d73-1795099172710_image.png" },
+  { name: "Prepaze", logo: "/portfolio-v2/prepaze_logo_kkhxn5.svg" },
   { name: "GREedge", logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1KfMN9A5G7_BEKzftNv1yLEeidBDu9geP6Q&s" },
 ];
 
@@ -251,7 +251,7 @@ export const dentsuSystems = [
 ];
 
 export const workSamples = [
-  { icon: "FileText", title: "Yearly Organic Growth Plan (SEO + ASO)", desc: "Full annual plan for an e-pharmacy — tied to category-level revenue impact, seasonal search behavior, and product margin mix. Includes HTML overview with linked files.", href: "/portfolio/plan-of-action" },
+  { icon: "FileText", title: "Yearly Organic Growth Plan (SEO + ASO)", desc: "Full annual plan for an e-pharmacy — tied to category-level revenue impact, seasonal search behavior, and product margin mix. Includes HTML overview with linked files.", href: "/portfolio-v2/plan-of-action" },
   { icon: "BarChart3", title: "SEO AOP — Full Annual Operating Plan", desc: "Organic channel-level forecasts, priority content buckets, and projected revenue contribution by quarter.", href: "https://docs.google.com/spreadsheets/d/17rFGdnQPVmLyNm34m536YsoW0prdZX-d9ZP-_ue_OfU/edit?usp=drive_link" },
   { icon: "Search", title: "Category Keyword Research + Competitor Unboxing", desc: "Segment-by-segment keyword builds across 10+ product categories with competitor gap analysis mapped to acquisition opportunity.", href: "https://docs.google.com/spreadsheets/d/1bOmYA3tV42XZFYJ7yz9iC5PaEtLZ_i6bWnu_cFJ0msI/edit?usp=drive_link" },
   { icon: "PenTool", title: "Content Execution Plan", desc: "Keyword buckets organized into content briefs, priority tiers, and team workflow — a production-ready execution plan.", href: "https://docs.google.com/spreadsheets/d/13YeJs_vNXDTqBwj2y_YWBAd-XAe8d1nl7Up3RyYFSFo/edit?usp=drive_link" },
